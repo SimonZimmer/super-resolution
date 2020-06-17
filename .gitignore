@@ -2,4 +2,5 @@
 .div2k
 .ckpt
 *.h5
+*__pycache__
 
